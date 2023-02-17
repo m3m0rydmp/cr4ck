@@ -21,7 +21,7 @@ After the installation, you can start the program simple by double clicking it. 
 
 ## Running on Android
 
-You can run this program through Termux or F-Droid, simply go to Play Store and search either of these apps. Then click install
+You can run this program through Termux or F-Droid, simply go to Play Store and search either of these apps then click install
 ![image](https://user-images.githubusercontent.com/79844632/219643150-6959b4ec-0291-4869-b535-2cfd704ead9b.png)
 
 Once Downloaded, make sure that python is installed on your android. To install python using Termux on Android, simply type the following commands "pkg install python"
