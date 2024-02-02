@@ -37,6 +37,6 @@ NOTE: This has not been tested yet on Android as the commands on installing libr
 
 # About
 
-Program created by Styx.
+Program created by Resonanc3.
 
 I aspire to be as part on a Cybersecurity field. Hence, I look forward on creating projects related to it.
